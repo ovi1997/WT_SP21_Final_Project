@@ -1,0 +1,23 @@
+           body 
+         {
+                background:white;
+         }
+
+            .content 
+         {
+                max-width: 500px;
+                margin: auto;
+                background: white;
+                padding: 10px;
+         }
+             input[type=submit]
+         {
+                  background-color: #4CAF50;
+                  border: none;
+                  color: white;
+                  padding: 10px 20px;
+                  text-decoration: none;
+                  margin: 4px 2px;
+                  cursor: pointer;
+         }
+           
